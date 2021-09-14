@@ -1,4 +1,5 @@
 # Playground
+Xinrong Yang
 
 A place to play with `git`.
 
