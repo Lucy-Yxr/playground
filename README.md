@@ -1,9 +1,6 @@
-<<<<<<< HEAD
-AC 207 # Playground
-=======
 # Playground
-Xinrong Yang
->>>>>>> xinrong_yang_changes
+
+Xinrong Yang is taking AC 207
 
 A place to play with `git`.
 
